@@ -57,7 +57,7 @@ button {
 /* ---------- Card Component ---------- */
 .card {
   flex-basis: 1%;
-  min-width: 25rem;
+  min-width: 25.5rem;
   border: 1px solid #f1f0f0;
   border-radius: 3px;
 }
@@ -73,6 +73,7 @@ button {
   padding: 2rem;
 }
 
+/* Card Button */
 .card__btn {
   font-size: 2rem;
   line-height: 3rem;
